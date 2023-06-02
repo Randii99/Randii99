@@ -25,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randi99&show_icons=true&locale=en" alt="randi99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randi99&" alt="randi99" /></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randii99)](https://github.com/anuraghazra/github-readme-stats)
