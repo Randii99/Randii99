@@ -1,6 +1,5 @@
 ![MasterHead](https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg)
 
-<h3 align="center"><b>Information Technology Undergraduate at SLIIT</b></h3>
 
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">Hello , I'm <a href="https://sidbelbase.me">Randi Jayakody</a></h1></center>
